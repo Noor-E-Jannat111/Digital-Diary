@@ -1,15 +1,10 @@
-## Daily Dose - A full features bloging website
+## Digital Diary - A full features bloging website
 
-### About daily-dose
+### About digital-diary
 
-* Daily-dose is a bloging website created using react.js. Using, daily-dose you can increase your knowledge.
+* Digital-diary is a bloging website created using react.js. Using, daily-dose you can increase your knowledge.
    There has lots of article about (JavaScript, Node.js, Express.js and C ).
-* So, take a tour [click me](https://daily-dosee.netlify.app/) 
-
-## Benefit with daily-dose
-
-* Can learn something new about (JavaScript, Node.js, Express.js and C).
-* Best understading. 
+* Here is the live link--> [click me](https://daily-dosee.netlify.app/) 
 
 
 The application is composed of the following Features:
@@ -21,7 +16,7 @@ The application is composed of the following Features:
 * A quick peek Components where some of post each categories are on display. 
 * A page with Sign-in and Sign-out components. User can sign in or sign out.
 * When you are ready to read blog oviously you have to logged in user. otherwise can log in or sign up .
-
+* Write post and Delete any post.
 
 
 ### Firebase 
