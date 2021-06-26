@@ -42,16 +42,6 @@ The application is composed of the following Features:
 * Firebase Authentication
 
 
-```
-Please visit the site and see development , design also check responsive and more.
-
-```
-
-### Posts page
-![page](https://i.ibb.co/w4YWd4d/daily.png)
 
 
-``` For more photos and others visit the link ```
-## Greetings
-`Thank you so much . Have a good day.`
-# Digital-Diary
+
