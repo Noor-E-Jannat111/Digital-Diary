@@ -4,7 +4,7 @@
 
 * Digital-diary is a bloging website created using react.js. Using, daily-dose you can increase your knowledge.
    There has lots of article about (JavaScript, Node.js, Express.js and C ).
-* Here is the live link--> [click me](https://daily-dosee.netlify.app/) 
+* Here is the live link--> [click me](https://digital-diary.netlify.app) 
 
 
 The application is composed of the following Features:
